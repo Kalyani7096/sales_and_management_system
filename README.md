@@ -1,1 +1,3 @@
-# sales_and_management_system
+  Sales and Inventory Management System(Mysql)
+        
+This project is a Sales & Inventory Management System built using MySQL, designed to simulate how real-world software applications manage sales transactions and inventory data. It efficiently handles products, customers, orders, and sales records using a well-structured relational database. The system automatically updates stock levels after each sale through database triggers and provides meaningful business insights using SQL aggregation and window functions such as RANK(). This project demonstrates practical knowledge of database design, relationships, data integrity, and analytical querying, making it a strong beginner-level project for learning backend database concepts and showcasing SQL skills on GitHub.
